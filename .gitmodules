@@ -1,0 +1,9 @@
+[submodule "ConnectedWheels-Python"]
+	path = ConnectedWheels-Python
+	url = https://github.com/nsakellion/ConnectedWheels-Python
+[submodule "ConnectedWheels-Android"]
+	path = ConnectedWheels-Android
+	url = https://github.com/nsakellion/ConnectedWheels-Android
+[submodule "ConnectedWheels-DB"]
+	path = ConnectedWheels-DB
+	url = https://github.com/nsakellion/ConnectedWheels-DB
